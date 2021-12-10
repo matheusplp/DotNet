@@ -1,0 +1,16 @@
+/home/luis/Works/WEB/DotNet/DNDIO/bin/Debug/net5.0/DNDIO
+/home/luis/Works/WEB/DotNet/DNDIO/bin/Debug/net5.0/DNDIO.deps.json
+/home/luis/Works/WEB/DotNet/DNDIO/bin/Debug/net5.0/DNDIO.runtimeconfig.json
+/home/luis/Works/WEB/DotNet/DNDIO/bin/Debug/net5.0/DNDIO.runtimeconfig.dev.json
+/home/luis/Works/WEB/DotNet/DNDIO/bin/Debug/net5.0/DNDIO.dll
+/home/luis/Works/WEB/DotNet/DNDIO/bin/Debug/net5.0/ref/DNDIO.dll
+/home/luis/Works/WEB/DotNet/DNDIO/bin/Debug/net5.0/DNDIO.pdb
+/home/luis/Works/WEB/DotNet/DNDIO/obj/Debug/net5.0/DNDIO.csproj.AssemblyReference.cache
+/home/luis/Works/WEB/DotNet/DNDIO/obj/Debug/net5.0/DNDIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Works/WEB/DotNet/DNDIO/obj/Debug/net5.0/DNDIO.AssemblyInfoInputs.cache
+/home/luis/Works/WEB/DotNet/DNDIO/obj/Debug/net5.0/DNDIO.AssemblyInfo.cs
+/home/luis/Works/WEB/DotNet/DNDIO/obj/Debug/net5.0/DNDIO.csproj.CoreCompileInputs.cache
+/home/luis/Works/WEB/DotNet/DNDIO/obj/Debug/net5.0/DNDIO.dll
+/home/luis/Works/WEB/DotNet/DNDIO/obj/Debug/net5.0/ref/DNDIO.dll
+/home/luis/Works/WEB/DotNet/DNDIO/obj/Debug/net5.0/DNDIO.pdb
+/home/luis/Works/WEB/DotNet/DNDIO/obj/Debug/net5.0/DNDIO.genruntimeconfig.cache

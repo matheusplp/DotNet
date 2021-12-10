@@ -1,0 +1,16 @@
+/home/luis/Works/WEB/DotNet/BancoDN/obj/Debug/net5.0/BancoDN.csproj.AssemblyReference.cache
+/home/luis/Works/WEB/DotNet/BancoDN/obj/Debug/net5.0/BancoDN.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Works/WEB/DotNet/BancoDN/obj/Debug/net5.0/BancoDN.AssemblyInfoInputs.cache
+/home/luis/Works/WEB/DotNet/BancoDN/obj/Debug/net5.0/BancoDN.AssemblyInfo.cs
+/home/luis/Works/WEB/DotNet/BancoDN/obj/Debug/net5.0/BancoDN.csproj.CoreCompileInputs.cache
+/home/luis/Works/WEB/DotNet/BancoDN/bin/Debug/net5.0/BancoDN
+/home/luis/Works/WEB/DotNet/BancoDN/bin/Debug/net5.0/BancoDN.deps.json
+/home/luis/Works/WEB/DotNet/BancoDN/bin/Debug/net5.0/BancoDN.runtimeconfig.json
+/home/luis/Works/WEB/DotNet/BancoDN/bin/Debug/net5.0/BancoDN.runtimeconfig.dev.json
+/home/luis/Works/WEB/DotNet/BancoDN/bin/Debug/net5.0/BancoDN.dll
+/home/luis/Works/WEB/DotNet/BancoDN/bin/Debug/net5.0/ref/BancoDN.dll
+/home/luis/Works/WEB/DotNet/BancoDN/bin/Debug/net5.0/BancoDN.pdb
+/home/luis/Works/WEB/DotNet/BancoDN/obj/Debug/net5.0/BancoDN.dll
+/home/luis/Works/WEB/DotNet/BancoDN/obj/Debug/net5.0/ref/BancoDN.dll
+/home/luis/Works/WEB/DotNet/BancoDN/obj/Debug/net5.0/BancoDN.pdb
+/home/luis/Works/WEB/DotNet/BancoDN/obj/Debug/net5.0/BancoDN.genruntimeconfig.cache
